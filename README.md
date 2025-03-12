@@ -1,2 +1,2 @@
 # Rainbow-Song
-song about rainbow
+song about rainbow in the key of cmajor.
